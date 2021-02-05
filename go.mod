@@ -1,4 +1,4 @@
-module github.com/bakape/thumbnailer/v2
+module github.com/ElMaxo/thumbnailer
 
 go 1.13
 
